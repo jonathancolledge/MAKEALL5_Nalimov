@@ -1,0 +1,296 @@
+tbgen -m 20000 -p kbbbk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbbk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbbkb			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbbkn			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbbkp			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbbkq			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbbkr			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbbnk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbbpk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbkb			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbkn			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbkp			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbnk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbnkb			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbnkn			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbnkp			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbnkq			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbnkr			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbnnk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbnpk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbpk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbpkb			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbpkn			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbpkp			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbpkq			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbpkr			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kbppk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p knk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p knkn			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p knkp			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p knnk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p knnkb			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p knnkn			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p knnkp			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p knnkq			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p knnkr			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p knnnk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p knnpk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p knpk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p knpkb			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p knpkn			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p knpkp			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p knpkq			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p knpkr			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p knppk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kpk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kpkp			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kppk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kppkb			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kppkn			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kppkp			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kppkq			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kppkr			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kpppk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqbbk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqbk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqbkb			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqbkn			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqbkp			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqbkq			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqbkr			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqbnk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqbpk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqkb			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqkn			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqkp			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqkq			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqkr			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqnk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqnkb			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqnkn			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqnkp			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqnkq			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqnkr			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqnnk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqnpk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqpk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqpkb			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqpkn			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqpkp			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqpkq			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqpkr			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqppk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqqbk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqqk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqqkb			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqqkn			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqqkp			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqqkq			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqqkr			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqqnk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqqpk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqqqk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqqrk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqrbk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqrk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqrkb			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqrkn			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqrkp			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqrkq			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqrkr			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqrnk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqrpk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p kqrrk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krbbk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krbk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krbkb			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krbkn			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krbkp			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krbkq			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krbkr			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krbnk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krbpk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krkb			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krkn			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krkp			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krkr			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krnk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krnkb			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krnkn			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krnkp			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krnkq			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krnkr			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krnnk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krnpk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krpk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krpkb			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krpkn			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krpkp			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krpkq			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krpkr			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krppk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krrbk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krrk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krrkb			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krrkn			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krrkp			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krrkq			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krrkr			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krrnk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krrpk			
+					if errorlevel 1 goto abort
+tbgen -m 20000 -p krrrk			
+					if errorlevel 1 goto abort
+
+
+goto :done
+:abort
+echo Last tbgen run failed!
+:done
